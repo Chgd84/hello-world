@@ -145,4 +145,4 @@ pi = 4.0 * (double)score/(double)darts;
 return(pi);
 } 
 
-#Hostias ya!
+//Hostias ya!
